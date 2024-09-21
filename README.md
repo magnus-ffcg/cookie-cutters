@@ -7,5 +7,5 @@ This is a cookiecutter template for Terraform projects. It is designed to help y
 Terraform Sandbox project is a simple project to get you started with your Terraform project. It is a good starting point for your project.
 
 ```
-cookiecutter https://github.com/magnus-ffcg/cookiecutters --directory="tf-sandbox" --output-dir "testing"
+cookiecutter git+ssh://git@github.com:magnus-ffcg/cookie-cutters.git --directory="tf-sandbox" --output-dir "sandbox"
 ```
