@@ -1,0 +1,6 @@
+{
+    "repo_name": "example-project",
+    "project_name": "example-project",
+    "project_state_bucket": "example-bucket",
+    "project_service_account": "example-service-account@example-project.iam.gserviceaccount.com"
+}

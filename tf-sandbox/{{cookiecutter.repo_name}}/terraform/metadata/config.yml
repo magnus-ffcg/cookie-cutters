@@ -1,0 +1,4 @@
+# If you need config for your terraform code use yaml and read it in locals.tf
+# It can be multple files and how complex as you want.
+
+# sample_key: sample_value
